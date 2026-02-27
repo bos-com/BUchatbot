@@ -8,7 +8,7 @@ About the Project
 
 [npm test](#npm-test)
 
-[npm run build](#npm run build)
+[npm run build](#npm-run-build)
 
 npm run eject
 
