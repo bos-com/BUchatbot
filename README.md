@@ -2,7 +2,7 @@
 Table of Contents
 About the Project
 
-Available Scripts
+[Available Scripts](#available-scripts)
 
 npm start
 
