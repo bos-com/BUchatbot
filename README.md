@@ -1,6 +1,35 @@
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+**Table of Contents**
+
+[Available Scripts](#available-scripts)
+
+- [npm start](#npm-start)
+  
+- [npm test](#npm-test)
+  
+- [npm run build](#npm-run-build)
+  
+- [npm run eject](#npm-run-eject)
+  
+[Learn More](#Learn-More)
+
+- [Code Splitting](#Code-Splitting)
+  
+- [Analyzing the Bundle Size](#Analyzing-the-Bundle-Size)
+
+- [Making a Progressive Web App](#Making-a-Progressive-Web-App)
+  
+- [Advanced Configuration](#Advanced-Configuration)
+  
+- [Deployment](#Deployment)
+  
+- [`npm run build` fails to minify](#`npm-run-build`-fails-to-minify)
+
+
+
+
 
 ## Available Scripts
 
