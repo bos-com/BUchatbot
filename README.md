@@ -1,4 +1,28 @@
 # Getting Started with Create React App
+Table of Contents
+About the Project
+
+Available Scripts
+
+npm start
+
+npm test
+
+npm run build
+
+npm run eject
+
+Learning Resources
+
+React Fundamentals
+
+Optimization & Bundle Analysis
+
+Advanced Configuration
+
+Deployment & Troubleshooting
+
+Production Build Issues
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
